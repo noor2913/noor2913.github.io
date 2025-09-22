@@ -23,7 +23,7 @@ jobs:
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
         with:
-          path: .   # 👈 change if your site is in another folder
+          path: _site   # 👈 change if your site is in another folder
           target: gh-pages
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
