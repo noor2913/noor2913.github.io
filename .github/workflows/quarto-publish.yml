@@ -21,7 +21,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Render Quarto Project
-        run: quarto render --project quarto.yml
+        run: quarto render .
 
       - name: Publish to GitHub Pages
         uses: quarto-dev/quarto-actions/publish@v2
