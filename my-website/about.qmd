@@ -1,5 +1,0 @@
----
-title: "About"
----
-
-This is my site that I have made for my assignment.
