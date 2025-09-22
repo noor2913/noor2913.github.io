@@ -22,11 +22,15 @@ jobs:
 
       - name: Render Quarto Project
         uses: quarto-dev/quarto-actions/render@v2
+        with:
+          path: .
+          project: quarto.yml
 
       - name: Publish to GitHub Pages
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           path: _site
           target: gh-pages
+          project: quarto.yml
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
