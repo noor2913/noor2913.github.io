@@ -1,6 +1,6 @@
 ---
 title: "Welcome to My Website"
-author: "Your Name"
+author: "Mahnoor Khalid"
 date: "`r Sys.Date()`"
 format:
   html:
