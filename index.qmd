@@ -1,4 +1,4 @@
-t---
+---
 title: "Welcome!"
 author: "Mahnoor Khalid"
 date: today
