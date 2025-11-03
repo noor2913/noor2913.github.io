@@ -1,5 +1,65 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-This is my site that I have made for my assignment.
+## 👋 Hi, I'm Mahnoor Khalid
+
+I'm a **data-driven analyst** with a strong foundation in **business analytics, economics, and marketing**.  
+Currently, I’m pursuing my **MSc in Applied Business Analytics at Boston University (GPA: 4.00)**, where I specialize in Python, SQL, cloud analytics, and data mining. My passion lies in transforming complex data into actionable business insights that drive growth and efficiency.
+
+---
+
+## 💼 Professional Experience
+
+Over the past few years, I’ve worked in the **agri-tech** and **FMCG** industries, using analytics to solve real-world problems.
+
+- **Digital Enablement Analyst, Bayer Crop Science (2021–2025)**  
+  - Delivered **$1M+ profit uplift** by developing machine learning-based farmer segmentation models to optimize go-to-market strategies.  
+  - Automated SQL-based reporting pipelines, improving reporting efficiency by **30%**.  
+  - Designed and led analytics training sessions for **80+ employees**, boosting organizational data literacy.  
+  - Applied engagement analytics to improve farmer retention and onboarding across **3,000+ participants**.
+
+- **Supply Chain Analyst, Nestlé (2020–2021)**  
+  - Conducted data-driven safety analysis that reduced warehouse incidents by **7% year-over-year**.  
+  - Implemented route optimization models that cut transportation time by **12%** and costs by **9%**.  
+  - Enhanced labor productivity by **11%** through process optimization insights.
+
+---
+
+## 🧠 Academic & Research Projects
+
+- **Thesis:** *Impact of External Debt on Economic Growth* — analyzed 35 countries to quantify how debt affects growth by **22%**.  
+- **Hackathon Winner (Fall 2025):** Led a Boston University team to develop a **predictive analytics model** on U.S. college data, earning first place for innovative insights.  
+- **Career Analytics Platform:** Built a data-driven tool using **Spark, AWS, and Azure** to evaluate 2024 job market trends through ML.  
+
+---
+
+## 🌍 Leadership & Community Impact
+
+- **Lead Organizer – Business Society (Lahore School of Economics):**  
+  Drove a **31% increase in social engagement** and raised **$5,000+** in sponsorships through data-informed outreach.  
+- **CSR Drive Leader:**  
+  Applied network analysis to secure **$10K in donations** and onboard **20 new charity partners**.
+
+---
+
+## ⚙️ Technical Toolbox
+
+**Languages:** Python, R, SQL, SAS, SPSS  
+**Machine Learning:** Scikit-learn, PySpark, Predictive Modeling, Clustering, Regression  
+**Visualization:** Tableau, Power BI, Plotly, Dash  
+**Cloud & Tools:** AWS, Azure, Git, Spark  
+**Statistics:** Hypothesis Testing, Time Series, Multivariate Analysis  
+
+---
+
+## 🎯 What I’m Working On
+
+I’m passionate about using **data science and cloud analytics** to build smarter, more inclusive decision systems.  
+Currently exploring **predictive modeling, cloud data engineering**, and **data storytelling through visualization**.
+
+---
+
+*Let’s connect!*  
+[LinkedIn](https://www.linkedin.com/in/mahnoor-k/) • [GitHub](https://noor2913.github.io) • 📍 Boston, MA
+
