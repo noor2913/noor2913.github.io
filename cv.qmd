@@ -1,0 +1,79 @@
+---
+title: "Curriculum Vitae"
+format:
+  html:
+    toc: true
+    toc-title: "On this page"
+---
+
+# Mahnoor Khalid
+
+📍 Boston, MA  
+✉️ [khalid_mahnoor29@hotmail.com](mailto:khalid_mahnoor29@hotmail.com)  
+📞 339-229-2133  
+🔗 [LinkedIn](https://www.linkedin.com/in/mahnoor-k/)  
+
+---
+
+## Education
+
+**Boston University** — *MSc. Applied Business Analytics (STEM OPT Eligible)*  
+📅 May 2025 | GPA: 4.00  
+Relevant Coursework: Python & SQL, Cloud Analytics, Data Mining, Marketing Analytics, Operations Management.  
+
+**Lahore School of Economics** — *BSc. Hons Economics & Marketing*  
+📅 Aug 2016 – May 2020 | CGPA: 3.91  
+
+---
+
+## Professional Experience
+
+### Bayer Crop Science — *Digital Enablement Analyst / Executive*  
+📍 Lahore, Pakistan | 📅 May 2021 – Apr 2025  
+
+- Delivered **USD 1M+ profit uplift** using machine learning-based farmer segmentation models.  
+- Applied descriptive analytics on 500+ records to identify event attendance trends.  
+- Designed and delivered analytics training for 80+ employees.  
+- Increased reporting efficiency by 30% through SQL-based automation.  
+- Built adoption analytics for 3,140 farmers and 107 advisors to optimize onboarding.
+
+### Nestlé — *Supply Chain Analyst*  
+📍 Lahore, Pakistan | 📅 Aug 2020 – Apr 2021  
+
+- Performed analytics on warehouse safety data, reducing incidents by 7% YoY.  
+- Enhanced labor productivity by 11% through training program optimization.  
+- Implemented route optimization to improve logistics efficiency by 12%.  
+- Built regression-based cost models to reduce transport expenses by 9%.  
+
+---
+
+## Projects
+
+- **Impact of External Debt on Economic Growth (Thesis):** Researched 35 countries to show a 22% effect of debt on growth.  
+- **Extravagant Weddings in Pakistan:** Led a 5-member team analyzing 120 surveys.  
+- **Data-driven Career Analysis Platform:** Built using Spark, AWS, and Azure to evaluate job market trends.
+
+---
+
+## Extracurricular Activities
+
+**Lead Organizer – Business Society** (Jan 2017 – Dec 2020)  
+- Used data analytics and A/B testing to drive a 31% YoY increase in engagement.  
+
+**Drive Leader – CSR Society** (Jan 2019 – Dec 2020)  
+- Secured **USD 10K in donations** and 20 new charity partners using network analysis.  
+
+**ABA Hackathon Winner – Boston University (Fall 2025)**  
+- Led team to first place with a predictive analytics model on U.S. college data.  
+
+---
+
+## Skills
+
+**Programming:** Python, R, SQL, SAS, SPSS, Stata, Minitab  
+**Machine Learning:** Scikit-learn, Spark MLlib, Predictive Modeling, Neural Networks  
+**Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn, Plotly, Dash  
+**Cloud & Tools:** AWS (S3, EC2), Azure, Git  
+**Statistics:** Hypothesis Testing, Regression, Time Series, ANOVA  
+
+---
