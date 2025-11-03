@@ -128,8 +128,50 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "This is my site that I have made for my assignment."
+    "text": "I’m a data-driven analyst with a strong foundation in business analytics, economics, and marketing.\nCurrently, I’m pursuing my MSc in Applied Business Analytics at Boston University (GPA: 4.00), where I specialize in Python, SQL, cloud analytics, and data mining. My passion lies in transforming complex data into actionable business insights that drive growth and efficiency."
+  },
+  {
+    "objectID": "about.html#hi-im-mahnoor-khalid",
+    "href": "about.html#hi-im-mahnoor-khalid",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a data-driven analyst with a strong foundation in business analytics, economics, and marketing.\nCurrently, I’m pursuing my MSc in Applied Business Analytics at Boston University (GPA: 4.00), where I specialize in Python, SQL, cloud analytics, and data mining. My passion lies in transforming complex data into actionable business insights that drive growth and efficiency."
+  },
+  {
+    "objectID": "about.html#professional-experience",
+    "href": "about.html#professional-experience",
+    "title": "About Me",
+    "section": "💼 Professional Experience",
+    "text": "💼 Professional Experience\nOver the past few years, I’ve worked in the agri-tech and FMCG industries, using analytics to solve real-world problems.\n\nDigital Enablement Analyst, Bayer Crop Science (2021–2025)\n\nDelivered $1M+ profit uplift by developing machine learning-based farmer segmentation models to optimize go-to-market strategies.\n\nAutomated SQL-based reporting pipelines, improving reporting efficiency by 30%.\n\nDesigned and led analytics training sessions for 80+ employees, boosting organizational data literacy.\n\nApplied engagement analytics to improve farmer retention and onboarding across 3,000+ participants.\n\nSupply Chain Analyst, Nestlé (2020–2021)\n\nConducted data-driven safety analysis that reduced warehouse incidents by 7% year-over-year.\n\nImplemented route optimization models that cut transportation time by 12% and costs by 9%.\n\nEnhanced labor productivity by 11% through process optimization insights."
+  },
+  {
+    "objectID": "about.html#academic-research-projects",
+    "href": "about.html#academic-research-projects",
+    "title": "About Me",
+    "section": "🧠 Academic & Research Projects",
+    "text": "🧠 Academic & Research Projects\n\nThesis: Impact of External Debt on Economic Growth — analyzed 35 countries to quantify how debt affects growth by 22%.\n\nHackathon Winner (Fall 2025): Led a Boston University team to develop a predictive analytics model on U.S. college data, earning first place for innovative insights.\n\nCareer Analytics Platform: Built a data-driven tool using Spark, AWS, and Azure to evaluate 2024 job market trends through ML."
+  },
+  {
+    "objectID": "about.html#leadership-community-impact",
+    "href": "about.html#leadership-community-impact",
+    "title": "About Me",
+    "section": "🌍 Leadership & Community Impact",
+    "text": "🌍 Leadership & Community Impact\n\nLead Organizer – Business Society (Lahore School of Economics):\nDrove a 31% increase in social engagement and raised $5,000+ in sponsorships through data-informed outreach.\n\nCSR Drive Leader:\nApplied network analysis to secure $10K in donations and onboard 20 new charity partners."
+  },
+  {
+    "objectID": "about.html#technical-toolbox",
+    "href": "about.html#technical-toolbox",
+    "title": "About Me",
+    "section": "⚙️ Technical Toolbox",
+    "text": "⚙️ Technical Toolbox\nLanguages: Python, R, SQL, SAS, SPSS\nMachine Learning: Scikit-learn, PySpark, Predictive Modeling, Clustering, Regression\nVisualization: Tableau, Power BI, Plotly, Dash\nCloud & Tools: AWS, Azure, Git, Spark\nStatistics: Hypothesis Testing, Time Series, Multivariate Analysis"
+  },
+  {
+    "objectID": "about.html#what-im-working-on",
+    "href": "about.html#what-im-working-on",
+    "title": "About Me",
+    "section": "🎯 What I’m Working On",
+    "text": "🎯 What I’m Working On\nI’m passionate about using data science and cloud analytics to build smarter, more inclusive decision systems.\nCurrently exploring predictive modeling, cloud data engineering, and data storytelling through visualization.\n\nLet’s connect!\nLinkedIn • GitHub • 📍 Boston, MA"
   }
 ]
