@@ -1,0 +1,16 @@
+## 🏆 ABA Hackathon – Predictive Analytics Champion
+**Event:** Boston University Applied Business Analytics Hackathon  
+**Date:** Fall 2025  
+**Team Achievement:** 🥇 1st Place Winner  
+**Tools:** Python, Pandas, Scikit-learn, Streamlit
+
+### Project Overview
+Developed a **predictive analytics model** to analyze U.S. college data and forecast student enrollment trends.  
+Our model used key variables such as tuition, graduation rates, and student demographics to predict institutional success metrics.
+
+### Key Highlights
+- Led a 4-person team through data preprocessing, feature engineering, and model validation.  
+- Presented findings to the ABA faculty and Dean for The Applied Business Analytics program.
+
+### View the Work
+[💻 View the Full Notebook (Hackathon_Final.ipynb)](Hackathon_Final.ipynb){.btn .btn-outline-primary}
