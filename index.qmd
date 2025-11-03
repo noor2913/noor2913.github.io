@@ -1,16 +1,16 @@
 ---
 title: "Welcome!"
-author: "Mahnoor Khalid"
-date: today
+page-layout: full
+image: "Image.jpg"
 format:
   html:
     theme: journal
     toc: false
     title-block-banner: "#e66b63"
     title-block-style: default
-image: "Image.jpg"
-page-layout: full
+    title-block: none
 ---
+
 
 
 <div style="text-align: center;">
