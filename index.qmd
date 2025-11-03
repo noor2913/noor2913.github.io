@@ -1,11 +1,38 @@
 ---
-title: "Welcome to My Website"
+title: "Welcome!"
 author: "Mahnoor Khalid"
 date: today
 format:
   html:
     theme: journal
-    toc: true
+    toc: false
+    title-block-banner: "#e66b63"
+    title-block-style: center
+image: "Image.jpg"
+page-layout: full
 ---
-# Hello, World!  
-Welcome to my Quarto website.  
+
+<div style="text-align: center;">
+<img src="Image.jpg" alt="Mahnoor Khalid" width="230" style="border-radius: 50%; margin-bottom: 15px;"/>
+</div>
+
+# 👋 Hi, I’m Mahnoor Khalid
+
+I’m a **data analytics professional** with a passion for uncovering insights that inform smarter business decisions.  
+Currently, I’m pursuing my **Master of Science in Applied Business Analytics** at **Boston University**, where I focus on applying statistical modeling, machine learning, and cloud-based data tools to solve real-world business challenges. My academic foundation in **Economics and Marketing** gives me a unique ability to combine analytical thinking with strategic insight.
+
+During my time at **Bayer Crop Science**, I developed **machine learning segmentation models** that generated over **$1 million in profit uplift**, led analytics training for more than 80 employees, and automated SQL-based reporting processes to improve efficiency by **30%**.  
+Before that, at **Nestlé**, I optimized supply chain operations, implemented route optimization models that reduced delivery times by **12%**, and built regression-based cost models that cut transport expenses by **9%**. These experiences have shaped my belief that data, when used thoughtfully, can drive transformation at every level of a business.
+
+Beyond professional work, I’ve led and contributed to several analytical initiatives that bridge business and technology. My team won **Boston University’s Fall 2025 ABA Hackathon** for developing a predictive analytics model using U.S. college data — a project that strengthened my appreciation for collaboration, innovation, and the creative side of data science. I also built a **career analytics platform** using Spark, AWS, and Azure to analyze 2024 job market trends, reflecting my enthusiasm for scalable, cloud-based data solutions.
+
+When I’m not exploring datasets, I enjoy learning about emerging analytics technologies, mentoring peers, and designing visual dashboards that make complex data easy to understand. I’m especially passionate about **data storytelling** — translating raw numbers into narratives that inspire strategic action.
+
+If you’re interested in **data analytics, digital transformation, or predictive modeling**, I’d love to connect. Feel free to browse through my projects and CV to learn more about my work and journey.
+
+---
+
+<div style="text-align: center; font-style: italic;">
+📍 Based in Boston, MA  
+[LinkedIn](https://www.linkedin.com/in/mahnoor-k/) • [GitHub](https://noor2913.github.io) • [Email](mailto:khalid_mahnoor29@hotmail.com)
+</div>
