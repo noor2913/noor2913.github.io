@@ -1,6 +1,8 @@
 ---
 title: "Contact"
 ---
+[📄 Download My Resume](Mahnoor%20Khalid%20-%20Resume.pdf){.btn .btn-primary}
+
 
 # Get in Touch
 
