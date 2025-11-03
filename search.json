@@ -12,5 +12,47 @@
     "title": "Welcome to My Website",
     "section": "",
     "text": "Hello, World!\nWelcome to my Quarto website."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "📍 Boston, MA\n✉️ khalid_mahnoor29@hotmail.com\n📞 339-229-2133\n🔗 LinkedIn\n\n\n\nBoston University — MSc. Applied Business Analytics (STEM OPT Eligible)\n📅 May 2025 | GPA: 4.00\nRelevant Coursework: Python & SQL, Cloud Analytics, Data Mining, Marketing Analytics, Operations Management.\nLahore School of Economics — BSc. Hons Economics & Marketing\n📅 Aug 2016 – May 2020 | CGPA: 3.91\n\n\n\n\n\n\n📍 Lahore, Pakistan | 📅 May 2021 – Apr 2025\n\nDelivered USD 1M+ profit uplift using machine learning-based farmer segmentation models.\n\nApplied descriptive analytics on 500+ records to identify event attendance trends.\n\nDesigned and delivered analytics training for 80+ employees.\n\nIncreased reporting efficiency by 30% through SQL-based automation.\n\nBuilt adoption analytics for 3,140 farmers and 107 advisors to optimize onboarding.\n\n\n\n\n📍 Lahore, Pakistan | 📅 Aug 2020 – Apr 2021\n\nPerformed analytics on warehouse safety data, reducing incidents by 7% YoY.\n\nEnhanced labor productivity by 11% through training program optimization.\n\nImplemented route optimization to improve logistics efficiency by 12%.\n\nBuilt regression-based cost models to reduce transport expenses by 9%.\n\n\n\n\n\n\n\nImpact of External Debt on Economic Growth (Thesis): Researched 35 countries to show a 22% effect of debt on growth.\n\nExtravagant Weddings in Pakistan: Led a 5-member team analyzing 120 surveys.\n\nData-driven Career Analysis Platform: Built using Spark, AWS, and Azure to evaluate job market trends.\n\n\n\n\n\nLead Organizer – Business Society (Jan 2017 – Dec 2020)\n- Used data analytics and A/B testing to drive a 31% YoY increase in engagement.\nDrive Leader – CSR Society (Jan 2019 – Dec 2020)\n- Secured USD 10K in donations and 20 new charity partners using network analysis.\nABA Hackathon Winner – Boston University (Fall 2025)\n- Led team to first place with a predictive analytics model on U.S. college data.\n\n\n\n\nProgramming: Python, R, SQL, SAS, SPSS, Stata, Minitab\nMachine Learning: Scikit-learn, Spark MLlib, Predictive Modeling, Neural Networks\nData Visualization: Tableau, Power BI, Matplotlib, Seaborn, Plotly, Dash\nCloud & Tools: AWS (S3, EC2), Azure, Git\nStatistics: Hypothesis Testing, Regression, Time Series, ANOVA"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Boston University — MSc. Applied Business Analytics (STEM OPT Eligible)\n📅 May 2025 | GPA: 4.00\nRelevant Coursework: Python & SQL, Cloud Analytics, Data Mining, Marketing Analytics, Operations Management.\nLahore School of Economics — BSc. Hons Economics & Marketing\n📅 Aug 2016 – May 2020 | CGPA: 3.91"
+  },
+  {
+    "objectID": "cv.html#professional-experience",
+    "href": "cv.html#professional-experience",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "📍 Lahore, Pakistan | 📅 May 2021 – Apr 2025\n\nDelivered USD 1M+ profit uplift using machine learning-based farmer segmentation models.\n\nApplied descriptive analytics on 500+ records to identify event attendance trends.\n\nDesigned and delivered analytics training for 80+ employees.\n\nIncreased reporting efficiency by 30% through SQL-based automation.\n\nBuilt adoption analytics for 3,140 farmers and 107 advisors to optimize onboarding.\n\n\n\n\n📍 Lahore, Pakistan | 📅 Aug 2020 – Apr 2021\n\nPerformed analytics on warehouse safety data, reducing incidents by 7% YoY.\n\nEnhanced labor productivity by 11% through training program optimization.\n\nImplemented route optimization to improve logistics efficiency by 12%.\n\nBuilt regression-based cost models to reduce transport expenses by 9%."
+  },
+  {
+    "objectID": "cv.html#projects",
+    "href": "cv.html#projects",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Impact of External Debt on Economic Growth (Thesis): Researched 35 countries to show a 22% effect of debt on growth.\n\nExtravagant Weddings in Pakistan: Led a 5-member team analyzing 120 surveys.\n\nData-driven Career Analysis Platform: Built using Spark, AWS, and Azure to evaluate job market trends."
+  },
+  {
+    "objectID": "cv.html#extracurricular-activities",
+    "href": "cv.html#extracurricular-activities",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Lead Organizer – Business Society (Jan 2017 – Dec 2020)\n- Used data analytics and A/B testing to drive a 31% YoY increase in engagement.\nDrive Leader – CSR Society (Jan 2019 – Dec 2020)\n- Secured USD 10K in donations and 20 new charity partners using network analysis.\nABA Hackathon Winner – Boston University (Fall 2025)\n- Led team to first place with a predictive analytics model on U.S. college data."
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Programming: Python, R, SQL, SAS, SPSS, Stata, Minitab\nMachine Learning: Scikit-learn, Spark MLlib, Predictive Modeling, Neural Networks\nData Visualization: Tableau, Power BI, Matplotlib, Seaborn, Plotly, Dash\nCloud & Tools: AWS (S3, EC2), Azure, Git\nStatistics: Hypothesis Testing, Regression, Time Series, ANOVA"
   }
 ]
